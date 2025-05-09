@@ -1,6 +1,6 @@
 const a = "oke banget nih";
 
-let b = a + "oke oke"
+let b = a + "oke okeaaaaaaaa"
 
 console.log(b)
 
