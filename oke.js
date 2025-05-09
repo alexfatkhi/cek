@@ -1,3 +1,4 @@
-const a = "oke";
+const a = "1.2";
+let b = Number(a);
 
-console.log(a)
+console.log(b)
